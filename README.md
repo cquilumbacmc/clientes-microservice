@@ -1,6 +1,10 @@
 
 # Clientes Microservice
 
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+</p>
+
 Este es un microservicio desarrollado en NestJS que gestiona información básica de clientes como el ID, nombre y apellido. El microservicio no utiliza una base de datos, sino que maneja los datos en memoria a través de colecciones.
 
 ## Descripción
@@ -36,7 +40,7 @@ Este microservicio forma parte de un curso de microservicios y está diseñado p
    npm run start:dev
    ```
 
-   El microservicio estará disponible en \`http://localhost:3000\`.
+   El microservicio estará disponible en `http://localhost:3000`.
 
 ## Probar el microservicio usando Postman
 
@@ -143,9 +147,7 @@ Puedes probar el microservicio utilizando [Postman](https://www.postman.com/) o 
 <<<<<<< HEAD
 # customers-service
 =======
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-</p>
+
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
